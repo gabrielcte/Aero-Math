@@ -11,8 +11,6 @@ Fração do contabilização das horas segundos e minutos na fração do dia
 JDMfrac Data Juliana contabilizando a fração do dia
 %}
 
-% f = fuso
-
 function [vetor_data_juliana] = Data_local_to_JD(I,J,D,UT,m,s,f)
     
     data_local = [I,J,D,UT,m,s];
