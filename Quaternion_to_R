@@ -1,7 +1,7 @@
 %{
 Gabriel Alves Silva
 https://github.com/gabrielcte/Aero-Math/blob/main/Quaternion_to_R
-Função que retorna a matriz de cossenos diretores (Rbi) a partir dos quaternions
+Função que retorna a matriz de cossenos diretores (Rbi) a partir do vetor de quaternions (Q)
 correspondentes.
 %}
 
