@@ -1,11 +1,11 @@
 %{
 Gabriel Alves Silva
+https://github.com/gabrielcte/Aero-Math/edit/main/Attitude_Determination_Triad.m
 TRIAD é um algoritmo de determinação de atitude simples e rápida.
 Essa usa dois vetores em dois sistemas de coordenadas diferentes.
 Os vetores devem ser diferentes.
-
 ver:
-
+https://github.com/gabrielcte/Aero-Math/blob/main/teste_triad
 %}
 
 function [Rbi] = Attitude_Determination_Triad(VB, VI) 
