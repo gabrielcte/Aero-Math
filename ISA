@@ -1,5 +1,7 @@
 %{
 Gabriel Alves Silva
+https://github.com/gabrielcte/Aero-Math.git
+
 Temperatura (T) em Kelvin, Velocidade do som (a) m/s, Pressão (P) em Pascal,
 Densidade do ar (rho) Kg/m^3, altitude maxima 20 km, tropopausa 11 km
 ISA inicial altitude = 0, T = 15°C - Kelvin , 
