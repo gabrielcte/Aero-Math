@@ -1,5 +1,6 @@
 %{
 Gabriel Alves Silva
+https://github.com/gabrielcte/Aero-Math/blob/main/Data_local_to_JD
 Data Juliana, determina contagem de dias do dia 1º de Janeiro de 2000, até
 a data de estudo.
 Data local = anos (I), meses (J), dias (D), hora de acordo o tempo universal (UT), minutos (m),
