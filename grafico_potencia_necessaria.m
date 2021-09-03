@@ -1,3 +1,10 @@
+%{
+Gabriel Alves Silva
+https://github.com/gabrielcte/Aero-Math/edit/main/grafico_potencia_necessaria.m
+Usando a polar de arrasto e o peso da aeronave é possivel
+avaliar a potencia necesária para andar em determinada altitude e velocidade
+%}
+
 function grafico_potencia_necessaria(peso_aeronave,razao_de_aspecto,area_da_asa,altitude)
 
     atmosfera_padrao=ISA(altitude);
