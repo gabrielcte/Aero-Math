@@ -1,6 +1,6 @@
 %{
 Gabriel Alves Silva
-https://github.com/gabrielcte/Aero-Math/blob/main/grafico_potencia_disponivel
+https://github.com/gabrielcte/
 Apresentação da potencia disponivel para um motor elétrico
 A corrente costuma ser a corrente de discarga padrão da bateria usada, ou 
 gerada em um sistema-hibrido
@@ -15,12 +15,8 @@ function grafico_potencia_disponivel(corrente,tensao,eficiencia_motor,eficiencia
 
     % Potencia que a Helice consegue utilizar
     potencia_disponivel = eficiencia_propeler*potencia_mecanica;
-    potencia_disponivel = potencia_disponivel
+    potencia_disponivel = potencia_disponivel*ones(1,40);
     
-    hold on
-    grid on
-    plot (potencia_disponivel,'k:')
-    title('Potência Disponivel')
-    xlabel('Velocidade do escoamento livre V, m/s')
-    ylabel('Potência W')
-end
+ 
+    plot (potencia_disponivel,'b:')
+   end
