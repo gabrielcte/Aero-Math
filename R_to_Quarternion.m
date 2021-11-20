@@ -1,6 +1,6 @@
 %{
 Gabriel Alves Silva
-https://github.com/gabrielcte/Aero_Math/blob/main/R_to_Quarternion
+https://github.com/gabrielcte/Aero_Math/blob/main/R_to_Quarternion.m
 Função que retorna o vetor de quaternions (q) da matriz de cossenos diretores
 (Rbi) no caso com q4 << 1.
 %}
