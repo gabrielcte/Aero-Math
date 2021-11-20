@@ -1,6 +1,6 @@
 %{
 Gabriel Alves Silva
-https://github.com/gabrielcte/Aero-Math/edit/main/grafico_potencia_disponivel.m
+https://github.com/gabrielcte/Aero_Math/blob/main/grafico_potencia_disponivel.m
 Apresentação da potencia disponivel para um motor elétrico
 A corrente costuma ser a corrente de discarga padrão da bateria usada, ou 
 gerada em um sistema-hibrido
